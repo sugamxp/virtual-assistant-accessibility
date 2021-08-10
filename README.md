@@ -8,9 +8,9 @@ Coming soon to Google Play
 
 #### UI Screenshots
 
-| ![menu](https://github.com/stp8954/AwesomeAI/blob/master/image/image1.jpg)     | ![activated](https://github.com/stp8954/AwesomeAI/blob/master/image/image2.jpg)      | ![prediction](https://github.com/stp8954/AwesomeAI/blob/master/image/image3.jpg) |
-| ------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------- |
-| ![settings](https://github.com/stp8954/AwesomeAI/blob/master/image/image4.jpg) | ![event selector](https://github.com/stp8954/AwesomeAI/blob/master/image/image5.jpg) |                                                                                  |
+| ![activated](https://github.com/stp8954/AwesomeAI/blob/master/image/image2.jpg)| ![prediction](https://github.com/stp8954/AwesomeAI/blob/master/image/image3.jpg)     |
+| ------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------ | 
+| ![settings](https://github.com/stp8954/AwesomeAI/blob/master/image/image4.jpg) | ![event selector](https://github.com/stp8954/AwesomeAI/blob/master/image/image5.jpg) |
 
 ## Pipeline Overview
 
